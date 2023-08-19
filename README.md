@@ -8,3 +8,4 @@ Fusion (WBF) and Soft Non-Maximum Suppression (NMS)
 - WBF: Compare results for different methods for setting the human confidence score (fixed constants ranging from 0.4 to 1, random float between 0.5-1)
 
 Results:
+https://docs.google.com/spreadsheets/d/1MRRqeH1MWEcnwlFa1WqtdEUwDRPKKwn0YN-MoxUX9SI/edit#gid=1372991454 
